@@ -40,9 +40,6 @@ func main() {
     fmt.Println("Here to explore, experiment, and ship things that matter.")
 }
 ```
-## `> about me :) `
-
-> I've hopped across industries — spending real time inside enterprises, coding out solutions that actually run in production. But my best code? Written out of pure curiosity, late at night, just for the fun of it.
 
 ---
 
